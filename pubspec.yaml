@@ -1,6 +1,6 @@
 name: file_helper
-description: A new Flutter package project.
-version: 0.0.1
+description: some file helper method
+version: 0.0.2
 homepage: https://github.com/xiaoliang-cn/flutter_file_helper
 
 environment:

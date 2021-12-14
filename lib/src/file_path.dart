@@ -1,6 +1,5 @@
 import 'dart:io';
 import 'package:path_provider/path_provider.dart';
-import 'package:path/path.dart';
 
 class FilePath {
   ///
@@ -43,7 +42,7 @@ class FilePath {
 
   /// 返回文件的名字
   /// 'user/data/aaa.png' return [aaa.png]
-  String getBaseName(String filePath) {
-    return basename(filePath);
-  }
+  // String getBaseName(String filePath) {
+  //   return basename(filePath);
+  // }
 }

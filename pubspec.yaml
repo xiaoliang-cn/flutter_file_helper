@@ -1,6 +1,6 @@
 name: file_helper
 description: some file helper method
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/xiaoliang-cn/flutter_file_helper
 
 environment:
